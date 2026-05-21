@@ -152,7 +152,17 @@ test("SmartHeal test", async ({ page }) => {
 
 ---
 
-# Author
+##  Author
 
-Varshini
-Test Automation Engineer
+**Varshini UmaShankar**
+> Built with passion for making Cypress tests smarter and more resilient.<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/u-varshini)<br>
+[![Demo](https://img.shields.io/badge/Demo-View%20Site-green?style=for-the-badge&logo=google)](https://sites.google.com/view/smartelementdetect-varshini/self-healing-selectors/)
+
+---
+
+##  License
+
+MIT License — free to use, modify, and distribute.
+
+---
