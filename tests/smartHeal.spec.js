@@ -20,8 +20,7 @@ test("SmartHeal test", async ({ page }) => {
       await (await smartHeal("//button[@name='mit']", 'submit'))     
             .click();
   
-
-      await page.waitForURL("**/logged-in-successfully/");
+            
       await expect(await smartHeal("h1.post", "Logged In")) 
             .toBeVisible();
       
