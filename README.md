@@ -7,7 +7,7 @@ Instead of failing immediately, SmartHeal intelligently scans the DOM and identi
 - Visible text matching
 - ID similarity
 - Class similarity
-- 
+  
 ![SmartHeal Demo](assets/FailedTest.PNG)
 ![SmartHeal Demo](assets/SmartHealTest.PNG)
 ---
